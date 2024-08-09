@@ -25,3 +25,5 @@ We followed these steps to get the results:
 3.  Implement Value Iteration
 4.  Conduct Experiments with various dicount factors and modifying reward structure.
 5.  Plot policies as arrows on the grid and plot value functions for better understanding.
+
+Finally we concluded that this project successfully implemented a policy iteration algorithm to solve a grid-world MDP problem. The agent effectively learned to navigate the environment and reach the goal state.
